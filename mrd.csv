@@ -1,0 +1,101 @@
+User_id,Age,Gender,Preferred_genre,Song_id,Song_name,Artist,Genres,Rating
+1,22,Male,Pop,101,"Blinding Lights",The Weeknd,"Pop, Synthwave",5
+2,30,Female,Rock,102,"Everlong",Foo Fighters,"Rock",4
+3,25,Non-binary,Hip Hop,103,"Sicko Mode",Travis Scott,"Hip Hop",5
+4,28,Male,Jazz,104,"Take Five",Dave Brubeck,"Jazz",4
+5,19,Female,Electronic,105,"Titanium",David Guetta ft. Sia,"Electronic, Dance",4
+6,35,Female,Classical,106,"Clair de Lune",Claude Debussy,"Classical",5
+7,27,Male,Indie,107,"Take Me Out",Franz Ferdinand,"Indie Rock",4
+8,33,Female,Country,108,"Jolene",Dolly Parton,"Country",5
+9,29,Male,Reggae,109,"No Woman, No Cry",Bob Marley,"Reggae",4
+10,21,Female,R&B,110,"Leave the Door Open",Silk Sonic,"R&B, Soul",5
+11,24,Male,Alternative,111,"Boulevard of Broken Dreams",Green Day,"Alternative Rock",4
+12,31,Female,Pop,112,"Levitating",Dua Lipa,"Pop, Dance",5
+13,23,Non-binary,Metal,113,"Enter Sandman",Metallica,"Metal",5
+14,26,Male,Hip Hop,114,"HUMBLE.",Kendrick Lamar,"Hip Hop",5
+15,29,Female,Indie,115,"Dog Days Are Over",Florence + The Machine,"Indie, Folk",4
+16,34,Male,Jazz,116,"So What",Miles Davis,"Jazz",5
+17,38,Female,Country,117,"Before He Cheats",Carrie Underwood,"Country",5
+18,20,Male,Pop,118,"Good 4 U",Olivia Rodrigo,"Pop, Rock",5
+19,32,Female,Electronic,119,"Strobe",Deadmau5,"Electronic, Dance",5
+20,27,Male,Rock,120,"Sweet Child O' Mine",Guns N' Roses,"Rock",5
+21,25,Female,Indie,121,"The Night We Met",Lord Huron,"Indie, Folk",4
+22,30,Male,Metal,122,"Chop Suey!",System of a Down,"Metal",5
+23,29,Female,R&B,123,"Truth Hurts",Lizzo,"R&B, Hip Hop",5
+24,34,Male,Hip Hop,124,"God's Plan",Drake,"Hip Hop",5
+25,26,Female,Pop,125,"Shallow",Lady Gaga & Bradley Cooper,"Pop, Soundtrack",5
+26,21,Male,Jazz,126,"Feeling Good",Nina Simone,"Jazz",5
+27,31,Female,Alternative,127,"Creep",Radiohead,"Alternative Rock",4
+28,22,Male,Reggae,128,"Redemption Song",Bob Marley,"Reggae",5
+29,19,Female,Country,129,"The Bones",Maren Morris,"Country",4
+30,25,Male,Electronic,130,"Wake Me Up",Avicii,"Electronic, Dance",5
+31,28,Female,Pop,131,"Shape of You",Ed Sheeran,"Pop",5
+32,23,Male,Rock,132,"Bohemian Rhapsody",Queen,"Rock",5
+33,30,Female,Jazz,133,"Take the 'A' Train",Duke Ellington,"Jazz",5
+34,35,Male,Alternative,134,"Somebody That I Used to Know",Gotye,"Alternative Rock",4
+35,27,Female,Indie,135,"Pumped Up Kicks",Foster the People,"Indie, Alternative",4
+36,26,Male,Hip Hop,136,"Old Town Road",Lil Nas X,"Hip Hop, Country",5
+37,29,Female,Electronic,137,"Don't You Worry Child",Swedish House Mafia,"Electronic, Dance",5
+38,22,Male,Pop,138,"Bad Habits",Ed Sheeran,"Pop",4
+39,30,Female,Rock,139,"Zombie",The Cranberries,"Rock",4
+40,19,Male,Reggae,140,"It Mek",Desmond Dekker,"Reggae",4
+41,25,Female,R&B,141,"Peaches",Justin Bieber ft. Daniel Caesar,"R&B, Pop",5
+42,34,Male,Indie,142,"1901",Phoenix,"Indie Pop",4
+43,28,Female,Country,143,"Tennessee Whiskey",Chris Stapleton,"Country",5
+44,32,Male,Jazz,144,"My Favorite Things",John Coltrane,"Jazz",5
+45,21,Female,Metal,145,"Bring Me to Life",Evanescence,"Metal",4
+46,26,Male,Pop,146,"Watermelon Sugar",Harry Styles,"Pop",5
+47,30,Female,Rock,147,"Rolling in the Deep",Adele,"Rock, Pop",5
+48,29,Male,Hip Hop,148,"Lose Yourself",Eminem,"Hip Hop",5
+49,35,Female,Indie,149,"Home",Edward Sharpe & The Magnetic Zeros,"Indie, Folk",4
+50,23,Male,Jazz,150,"Autumn Leaves",Bill Evans,"Jazz",5
+51,26,Female,Electronic,151,"Titanium",David Guetta ft. Sia,"Electronic",4
+52,34,Male,Pop,152,"Shake It Off",Taylor Swift,"Pop",5
+53,30,Female,Country,153,"Girl Crush",Little Big Town,"Country",4
+54,22,Male,Reggae,154,"Buffalo Soldier",Bob Marley,"Reggae",5
+55,28,Female,Hip Hop,155,"Fancy",Iggy Azalea,"Hip Hop",4
+56,31,Male,Alternative,156,"Feel Good Inc.",Gorillaz,"Alternative Rock",5
+57,25,Female,Pop,157,"I Will Always Love You",Whitney Houston,"Pop",5
+58,29,Male,Metal,158,"Paranoid",Black Sabbath,"Metal",5
+59,38,Female,Jazz,159,"Ain't Misbehavin'",Fats Waller,"Jazz",5
+60,19,Male,Indie,160,"Electric Feel",MGMT,"Indie, Electronic",4
+61,27,Female,R&B,161,"Halo",Beyoncé,"R&B, Pop",5
+62,24,Male,Rock,162,"We Will Rock You",Queen,"Rock",5
+63,30,Female,Pop,163,"Thank U, Next",Ariana Grande,"Pop",5
+64,26,Male,Reggae,164,"Sweat (A La La La La Long)",Inner Circle,"Reggae",4
+65,21,Female,Electronic,165,"Lose Control",Meduza,"Electronic",5
+66,33,Male,Alternative,166,"Take Me to Church",Hozier,"Alternative Rock",5
+67,29,Female,Country,167,"Cruise",Florida Georgia Line,"Country",4
+68,22,Male,Jazz,168,"In a Sentimental Mood",Duke Ellington,"Jazz",5
+69,25,Female,Hip Hop,169,"Bodak Yellow",Cardi B,"Hip Hop",5
+70,35,Male,Metal,170,"Master of Puppets",Metallica,"Metal",5
+71,31,Female,Indie,171,"Little Lion Man",Mumford & Sons,"Indie, Folk",4
+72,26,Male,Pop,172,"Uptown Funk",Mark Ronson ft. Bruno Mars,"Pop",5
+73,28,Female,Rock,173,"Livin' on a Prayer",Bon Jovi,"Rock",5
+74,23,Male,Reggae,174,"Is This Love",Bob Marley,"Reggae",5
+75,19,Female,R&B,175,"Best Part",Daniel Caesar,"R&B",4
+76,27,Male,Electronic,176,"The Middle",Zedd,"Electronic, Dance",5
+77,34,Female,Jazz,177,"Feeling Good",Nina Simone,"Jazz",5
+78,29,Male,Alternative,178,"Mr. Brightside",The Killers,"Alternative Rock",5
+79,22,Female,Country,179,"Wagon Wheel",Old Crow Medicine Show,"Country",5
+80,30,Male,Pop,180,"Rolling in the Deep",Adele,"Pop, Soul",5
+81,26,Female,Hip Hop,181,"Savage",Megan Thee Stallion,"Hip Hop",5
+82,35,Male,Indie,182,"Young Folks",Peter Bjorn and John,"Indie Pop",4
+83,21,Female,Rock,183,"Paranoid Android",Radiohead,"Rock",5
+84,29,Male,Electronic,184,"Get Lucky",Daft Punk,"Electronic, Dance",5
+85,28,Female,Reggae,185,"Could You Be Loved",Bob Marley,"Reggae",5
+86,24,Male,Jazz,186,"My Funny Valentine",Chet Baker,"Jazz",5
+87,30,Female,R&B,187,"Love Galore",SZA,"R&B",5
+88,22,Male,Metal,188,"Killing in the Name",Rage Against the Machine,"Metal",5
+89,27,Female,Pop,189,"Halo",Beyoncé,"Pop, R&B",5
+90,33,Male,Alternative,190,"The Less I Know the Better",Tame Impala,"Alternative Rock",5
+91,25,Female,Indie,191,"Home",Edward Sharpe,"Indie, Folk",4
+92,30,Male,Hip Hop,192,"Sicko Mode",Travis Scott,"Hip Hop",5
+93,21,Female,Rock,193,"Another Brick in the Wall",Pink Floyd,"Rock",5
+94,26,Male,Pop,194,"Shape of You",Ed Sheeran,"Pop",5
+95,35,Female,Jazz,195,"Autumn Leaves",Nat King Cole,"Jazz",5
+96,29,Male,Reggae,196,"Sweat (A La La La La Long)",Inner Circle,"Reggae",4
+97,28,Female,Electronic,197,"Titanium",David Guetta ft. Sia,"Electronic, Dance",5
+98,22,Male,Indie,198,"Electric Feel",MGMT,"Indie, Electronic",4
+99,27,Female,R&B,199,"Love on Top",Beyoncé,"R&B",5
+100,34,Male,Rock,200,"Stairway to Heaven",Led Zeppelin,"Rock",5
